@@ -1,4 +1,4 @@
-# Macro Spikes | Zidpixel Localization
+# Zidpixel 
 This project involves localizing the "Macro Spikes" template by Zidpixel. The project aims to provide a versatile template for Arabic websites, focusing on user experience and ease of use.
 
 ## Contents:
